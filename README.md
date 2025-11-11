@@ -8,7 +8,7 @@
     <h2 class="typing">🌟 Animating Typing Header</h2>
 </div>
 ```
-
+```html
 <style>
 .typing-container {
     font-family: 'Courier New', Courier, monospace;
@@ -34,17 +34,15 @@
     50% { border-color: orange; }
 }
 </style>
+```
 
 ## 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixxrllg&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## ⚙️ Technologies Used
-- Java
-- Minecraft Plugins
+- Java, Javascript, Kotlin, Typescript
+- React, tailwindcss
 - Netty Networking
-
-## 🌟 Seeyaa Organization Showcase
-Explore projects related to Seeyaa with various Minecraft plugins, utilizing Java technologies and Netty for networking efficiency!
 
 ## 🚀 Interactive Elements
 [![GitHub](https://img.shields.io/badge/GitHub-ixxrllg-8CCB5E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ixxrllg)
