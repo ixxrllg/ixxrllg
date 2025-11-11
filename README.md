@@ -6,52 +6,7 @@
 
 </div>
 
-```html
-<div class="typing-container">
-    <h1 class="typing">🌟 Full Stack Developer | Open Source Enthusiast</h1>
-</div>
-
-<style>
-    .typing-container {
-        font-family: 'Courier New', Courier, monospace;
-        color: #ffffff;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        padding: 20px;
-        border-radius: 10px;
-        display: inline-block;
-        margin: 20px 0;
-    }
-    
-    .typing {
-        overflow: hidden;
-        border-right: 0.15em solid #ff6b6b;
-        white-space: nowrap;
-        margin: 0;
-        letter-spacing: 0.15em;
-        animation: 
-            typing 4s steps(40, end),
-            blink-caret 0.75s step-end infinite;
-    }
-    
-    @keyframes typing {
-        from { 
-            width: 0; 
-        }
-        to { 
-            width: 100%; 
-        }
-    }
-    
-    @keyframes blink-caret {
-        from, to { 
-            border-color: transparent; 
-        }
-        50% { 
-            border-color: #ff6b6b; 
-        }
-    }
-</style>
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F731DA&width=435&lines=Made+with+alzheimer;Seeyaa.pl+top+1;made+by+ixxrllg+and+ur+mom)](https://git.io/typing-svg)
 
 ---
 
